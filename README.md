@@ -5,7 +5,7 @@ I'm currently working on bringing more traffic to my profile . My previous exper
 of collaborating with clients have helped me develop my communication, analytical, time- management, and problem-solving skills.
 
 In 2025, I enrolled in the TripleTen Business Intelligence Analytic program. The curriculum covered Python (Pandas, NumPy, Beautiful Soup), data visualization
-9 Tableau), SQL, and more. It also involved numerous practical projects
+(Tableau), SQL, and more. It also involved numerous practical projects
 . You can learn more about this and my other projects in my repositories!Here are some ideas to get you started:
 
 Some facts about me:
