@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**nelli2b/nelli2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Hi I'm Nelli, a professional data analyst who is experienced in 13 projects. I'm skilled in business analytics, PYTHON, SQL, and data visualization by storytelling. I am eager to bring my skills to my next career and to the media to showcase by skills.
+ Hi I'm Nelli, a professional data analyst who is experienced in 13 projects. I'm skilled in business analytics, PYTHON, SQL, and data visualization by storytelling. I am eager to bring my skills to my next career and to the media to showcase by skills.
 I'm currently working on bringing more traffic to my profile . My previous experience in SMM and years
 of collaborating with clients have helped me develop my communication, analytical, time- management, and problem-solving skills.
 
